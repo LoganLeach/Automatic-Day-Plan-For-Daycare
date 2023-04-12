@@ -1,1 +1,1 @@
-# Automatic-Day-Plan-For-Daycare
+The Automatic Day Plan for Daycare is a program built using Python that helps daycare centers plan their daily activities automatically. The program uses a set of rules and guidelines to generate a plan that is optimized for the daycare provider and tells them when the kids arrive, a meal plan, and a list of fun activities.
